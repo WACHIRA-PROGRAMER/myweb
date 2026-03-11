@@ -7,7 +7,7 @@ body {
 /* LOGO */
 
 .logo {
-  color: aqua;
+  color: rgb(112, 245, 35);
   font-size: 40px;
   font-weight: 500;
   font-style: italic;
@@ -45,7 +45,7 @@ nav ul {
 
 nav ul li a {
   text-decoration: none;
-  color: rgb(19, 211, 245);
+  color: rgb(185, 245, 19);
   font-weight: bold;
 }
 
